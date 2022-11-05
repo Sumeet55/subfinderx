@@ -10,4 +10,4 @@ Subdomain finder in Python
    
 * Usage
 
-python3 subfinderx.py example.com
+  python3 subfinderx.py example.com
