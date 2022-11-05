@@ -6,7 +6,7 @@ Subdomain finder in Python
 🛠️ Installation Steps:
 
 1. Clone this project.
-   https://github.com/Sumeet55/subfinderx.git
+   git clone https://github.com/Sumeet55/subfinderx.git
 
 2. Navigate to the project.
    cd subfinderx
